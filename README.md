@@ -4,7 +4,7 @@
 
 This is a Java-based mini-project developed using IntelliJ IDEA. The project structure is set up to be compatible with multiple Java IDEs, including IntelliJ, Eclipse, and NetBeans, as reflected in the `.gitignore` file.
 
-> **Note**: Please update this section with a brief description of what your project does.
+**Note**: This is a student-based management system that allows us to manage student data. We can add, view, and manage student data, among other features.
 
 ## Features
 
